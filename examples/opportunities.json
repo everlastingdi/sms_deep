@@ -1,0 +1,14 @@
+{
+  "opportunities": {
+    "example-project": {
+      "name": "example-project",
+      "chain": "ethereum",
+      "category": "airdrop",
+      "link": "https://example.com",
+      "status": "open",
+      "notes": ["tracking"],
+      "created": "2026-09-19 00:00:00",
+      "updated": "2026-09-19 00:00:00"
+    }
+  }
+}
