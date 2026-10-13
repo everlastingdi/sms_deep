@@ -1,3 +1,4 @@
-"""sms_tool package."""
+﻿"""sms_tool package."""
 
-VERSION = "0.2.0"
+VERSION = "0.2.1"
+

@@ -1,6 +1,6 @@
-[project]
+﻿[project]
 name = "sms-tool"
-version = "0.2.0"
+version = "0.2.1"
 description = "Track crypto / airdrop opportunities from the terminal"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -16,3 +16,4 @@ dev = ["pytest"]
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
+
