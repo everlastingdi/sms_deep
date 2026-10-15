@@ -52,3 +52,6 @@ python -m pytest tests -q
 ## License
 
 MIT
+
+---
+Last updated: 2026-10-15
