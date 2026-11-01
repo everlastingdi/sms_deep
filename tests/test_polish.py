@@ -14,3 +14,8 @@ def test_polish_case_8():
 def test_polish_case_14():
     assert 1 + 1 == 2
 
+
+
+def test_polish_case_20():
+    assert 1 + 1 == 2
+
