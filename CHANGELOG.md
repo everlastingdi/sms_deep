@@ -12,3 +12,4 @@
 - 2026-11-05: maintenance & housekeeping
 - 2026-11-11: maintenance & housekeeping
 - 2026-11-18: maintenance & housekeeping
+- 2026-11-25: maintenance & housekeeping
